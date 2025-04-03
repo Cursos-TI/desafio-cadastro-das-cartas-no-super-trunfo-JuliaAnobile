@@ -104,12 +104,3 @@ printf("numeros de pontos turisticos é:%d\n" ,pontos_turisticos);
   return 0;
 }
 
-
-  
-  
-  
-  
-  
-  
-     return 0;
-}
