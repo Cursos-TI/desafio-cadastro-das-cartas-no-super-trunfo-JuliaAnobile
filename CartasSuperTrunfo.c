@@ -5,7 +5,7 @@ int main () {
   char estado;
   char codigo da carta [3];
   char nome_cidade [20];
-  float populacao;
+  int populacao;
   float area;
   float PIB;
   int pontos_turisticos;
@@ -55,7 +55,7 @@ printf("numeros de pontos turisticos é:%d\n" ,pontos_turisticos);
   char estado;
   char codigo da carta [4];
   char nome_cidade [20];
-  float populacao;
+  int populacao;
   float area;
   float PIB;
   int pontos_turisticos;
