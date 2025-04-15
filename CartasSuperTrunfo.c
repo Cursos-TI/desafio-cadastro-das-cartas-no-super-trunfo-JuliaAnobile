@@ -3,14 +3,14 @@
 int main () {
      //carta1
   char estado;
-  char codigo da carta [3];
-  char nome_cidade [20];
+  char codigodacarta [3];
+  char nomecidade [20];
   int populacao;
   float area;
   float PIB;
-  int pontos_turisticos;
-  float densidade_populacional;
-  float PIB_per_capita;
+  int pontosturisticos;
+  float densidadepopulacional;
+  float PIBpercapita;
 
   printf("estado (M-Z): ");
   scanf("%c", &estado);
@@ -67,14 +67,14 @@ printf("PIB per capita é: %.1f", PIB_per_capita);
 
   //carta2
   char estado;
-  char codigo da carta [4];
-  char nome_cidade [20];
+  char codigodacarta [4];
+  char nomecidade [20];
   int populacao;
   float area;
   float PIB;
-  int pontos_turisticos;
-  float densidade_populacional;
-  float PIB_per_capita;
+  int pontosturisticos;
+  float densidadepopulacional;
+  float PIBpercapita;
 
   printf("estado (M-Z): ");
   scanf("%c", &estado);
